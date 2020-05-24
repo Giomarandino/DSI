@@ -4,8 +4,7 @@ Resumen de videos por ver
 <html>
 <head>
 <style>
-/* Style the element with the id "myHeader" */
-#myHeader {
+  {
   background-color: tomato;
   color: black;
   padding: 40px;

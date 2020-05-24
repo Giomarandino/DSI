@@ -1,2 +1,63 @@
 # DSI
 Resumen de videos por ver
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Style the element with the id "myHeader" */
+#myHeader {
+  background-color: tomato;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+/* Style all elements with the class name "city" */
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+} 
+</style>
+</head>
+<body style="background-color:pink;" >
+
+
+<!-- A unique element -->
+<h1 id="myHeader" style="font-family:verdana;">Clases Teoricas DSI</h1>
+
+<!-- Multiple similar elements -->
+<h2 class="city" style="font-family:courier;">Flujo de trabajo de analisis </h2>
+<p style="font-family:verdana;"> Modelo de analisis - Maquina de estados </p> <a href= "https://youtu.be/83HY3qrlDYQ" style="font-family:verdana;" >Modelo de análisis Parte 1</a> <br> <a href= "https://youtu.be/V4eJoURQJDs" style="font-family:verdana;"> Diagrama de Máquina de estados Parte 1 </a> <br> <a href="https://youtu.be/YJnIHGtB-lo" style="font-family:verdana;"> Diagrama de Máquina de estados Parte 2 </a>
+
+<h2 class="city">UML 2.0</h2>
+<p> Maquina de estados - UML 2.0 </p>
+<a href ="https://youtu.be/WxEv0DR1RdI"> Diagrama de Máquina de estados Parte 3</a> 
+
+<h2 class="city">Diagrama de comunicación y clase de analisis</h2>
+<p>Actividades Flujo de Analisis - Diagrama de comunicacion </p>
+<a href="https://youtu.be/ej0CXOnFS-8 "> Parte 1 </a> <br>
+<a href="https://youtu.be/ujy09fUd0zY"> Diagrama de comunicación Parte 1 </a><br>
+<a href="https://youtu.be/eulmw5gH3mw"> Diagrama de comunicación Parte 2 </a><br>
+<a href="https://youtu.be/ajbzuDEJKgQ"> Diagrama de clase de analisis </a> 
+
+<h2 class="city">Diagrama de secuencia</h2>
+<p> Diagrama de secuencia nivel Analisis </p>
+<a href="https://youtu.be/VPcDA-WUfkM"> Diagrama de secuencia Parte 1 </a> <br>
+<a href="https://youtu.be/4ECCXp1L9t0"> Diagrama de secuencia Parte 2 </a> <br>
+<a href="https://youtu.be/xvQFmVWDLCU"> Ejemplo Diagrama de Secuencia 1</a> <br>
+<a href="https://youtu.be/yV1L09DrT7g"> Ejemplo Diagrama de Secuencia 2</a> <br>
+
+<h2 class="city">Patrones GRASP</h2>
+<p> Patrones </p>
+<a href="https://youtu.be/xsjdrQqparU"> Patrones Parte 1 </a> <br>
+<a href="https://youtu.be/8i3UC1fu78o"> Patrones Parte 2 </a> <br>
+<a href="https://youtu.be/CEuevHhVpnY"> Partones Parte 3 </a>
+
+<h2 class="city">UML</h2>
+<p> Mapa conceptual </p>
+<a href="https://youtu.be/vzzACIqB7TQ"> UML 2.0 Parte 1 </a> <br>
+<a href="https://youtu.be/GRjRh3wrm3E"> UML 2.0 Parte 2 </a> <br>
+<a href="https://youtu.be/QFzOlxkP46M"> UML 2.0 Parte 3 </a>
+</body>
+</html>

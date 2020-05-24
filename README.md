@@ -4,7 +4,8 @@ Resumen de videos por ver
 <html>
 <head>
 <style>
-  {
+/* Style the element with the id "myHeader" */
+#myHeader {
   background-color: tomato;
   color: black;
   padding: 40px;
@@ -35,7 +36,7 @@ Resumen de videos por ver
 
 <h2 class="city">Diagrama de comunicación y clase de analisis</h2>
 <p>Actividades Flujo de Analisis - Diagrama de comunicacion </p>
-<a href="https://youtu.be/ej0CXOnFS-8 "> Parte 1 </a> <br>
+<a href="https://youtu.be/ej0CXOnFS-8 "> Actividades del Flujo de Trabajo de Analisis </a> <br>
 <a href="https://youtu.be/ujy09fUd0zY"> Diagrama de comunicación Parte 1 </a><br>
 <a href="https://youtu.be/eulmw5gH3mw"> Diagrama de comunicación Parte 2 </a><br>
 <a href="https://youtu.be/ajbzuDEJKgQ"> Diagrama de clase de analisis </a> 
